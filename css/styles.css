@@ -1,0 +1,14 @@
+#javascriptResult, #cSharpResult, #reactResult, #rubyResult, #epicodusResult {
+  display: none;
+}
+.btn {
+  color: cornflowerblue;
+  border: 2px solid cornflowerblue;
+}
+h1 {
+  color: purple;
+}
+h2 {
+  color: #9580FF;
+  font-size: large;
+}

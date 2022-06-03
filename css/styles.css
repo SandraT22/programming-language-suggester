@@ -1,31 +1,38 @@
-#javascriptResult, #cSharpResult, #reactResult, #rubyResult, #epicodusResult {
-  display: none;
-}
 .btn {
   color: cornflowerblue;
   border: 2px solid cornflowerblue;
 }
+
 .greenBold {
   color: green;
   font-weight: bold;
 }
-a {
-  color: #B284BE;
-  font-style: italic;
-  font-weight: bold;
+
+#javascriptResult, #cSharpResult, #reactResult, #rubyResult, #epicodusResult {
+  display: none;
 }
+
 #clickable1, #clickable2, #clickable3, #clickable4, #clickable5  {
   color: blue;
   text-decoration: underline;
   cursor: pointer;
 }
+
+body {
+  margin: 50px;
+}
+
 h1 {
   color: purple;
 }
+
 h2 {
   color: #6251b8;
   font-size: x-large;
 }
-body {
-  margin: 50px;
+
+a {
+  color: #B284BE;
+  font-style: italic;
+  font-weight: bold;
 }

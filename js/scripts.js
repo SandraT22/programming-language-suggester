@@ -21,22 +21,17 @@ $(document).ready(function() {
   });
   $(".clickable").click(function() {
     $("#javascriptResult-show").toggle();
-    // $("#result-hidden").toggle();
   })
   $(".clickable").click(function() {
     $("#cSharpResult-show").toggle();
-    // $("#result-hidden").toggle();
   })
   $(".clickable").click(function() {
     $("#reactResult-show").toggle();
-    $("#result-hidden").toggle();
   })
   $(".clickable").click(function() {
     $("#rubyResult-show").toggle();
-    $("#result-hidden").toggle();
   })
   $(".clickable").click(function() {
     $("#epicodusResult-show").toggle();
-    $("#result-hidden").toggle();
   })
 });

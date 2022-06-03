@@ -19,19 +19,24 @@ $(document).ready(function() {
       $("#epicodusResult").show();
     }
   });
-  $(".clickable").click(function() {
+  $("#clickable1").click(function() {
     $("#javascriptResult-show").toggle();
+    location.reload();
   })
-  $(".clickable").click(function() {
+  $("#clickable2").click(function() {
     $("#cSharpResult-show").toggle();
+    location.reload();
   })
-  $(".clickable").click(function() {
+  $("#clickable3").click(function() {
     $("#reactResult-show").toggle();
+    location.reload();
   })
-  $(".clickable").click(function() {
+  $("#clickable4").click(function() {
     $("#rubyResult-show").toggle();
+    location.reload();
   })
-  $(".clickable").click(function() {
+  $("#clickable5").click(function() {
     $("#epicodusResult-show").toggle();
+    location.reload();
   })
 });

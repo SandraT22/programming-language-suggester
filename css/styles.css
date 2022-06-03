@@ -14,9 +14,10 @@ a {
   font-style: italic;
   font-weight: bold;
 }
-.clickable {
+#clickable1, #clickable2, #clickable3, #clickable4, #clickable5  {
   color: blue;
   text-decoration: underline;
+  cursor: pointer;
 }
 h1 {
   color: purple;

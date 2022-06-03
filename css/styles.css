@@ -23,6 +23,9 @@ h1 {
   color: purple;
 }
 h2 {
-  color: #9580FF;
-  font-size: large;
+  color: #6251b8;
+  font-size: x-large;
+}
+body {
+  margin: 50px;
 }

@@ -1,5 +1,6 @@
-$(document).ready(function(){
-  $("form#languageSuggester").submit(function(event){
+$(document).ready(function() {
+  $("form#languageSuggester").submit(function(event) {
+    event.preventDefault();
     const question1 = $("select#question1").val();
     const question2 = $("select#question2").val();
     const question3 = $("select#question3").val();
@@ -17,27 +18,25 @@ $(document).ready(function(){
     } else {
       $("#epicodusResult").show();
     }
-    
-    event.preventDefault();
-  })
-  $(".clickable").click(function(){
+  });
+  $(".clickable").click(function() {
     $("#javascriptResult-show").toggle();
-    $("#result-hidden").toggle();
+    // $("#result-hidden").toggle();
   })
-  $(".clickable").click(function(){
+  $(".clickable").click(function() {
     $("#cSharpResult-show").toggle();
-    $("#result-hidden").toggle();
+    // $("#result-hidden").toggle();
   })
-  $(".clickable").click(function(){
+  $(".clickable").click(function() {
     $("#reactResult-show").toggle();
     $("#result-hidden").toggle();
   })
-  $(".clickable").click(function(){
+  $(".clickable").click(function() {
     $("#rubyResult-show").toggle();
     $("#result-hidden").toggle();
   })
-  $(".clickable").click(function(){
+  $(".clickable").click(function() {
     $("#epicodusResult-show").toggle();
     $("#result-hidden").toggle();
   })
-})
+});

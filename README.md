@@ -15,7 +15,7 @@ _This simple html website that asks a series of 5 questions to determine a progr
 ## Known Bugs
 * No known bugs.
 ## GitHub Page Link
-<!-- GITHUB PAGES LINK HERE -->
+https://sandrat22.github.io/programming-language-suggester/
 ## License
 _If you have any questions or concerns, please feel free to reach out to me [via email at: sandratena06@gmail.com](mailto:sandratena06@gmail.com) or request to make a contribution. Thank you!_ 
 #### The MIT License (MIT)

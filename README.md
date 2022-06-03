@@ -7,7 +7,7 @@
 * Bootstrap
 * JQuery
 ## Description
-_This simple html website that asks a series of 5 questions to determine a programming language to suggest that the user starts learning. After the user submits their answers, the results will pop up along with a link to the Epicodus website where they can learn more about coding and an option to click to hide their results._
+_This simple html website that asks a series of 5 questions to determine a programming language to suggest for the user to start learning. After the user selects their answers from the drop down menu, they click the "Show my results" button, the results will pop up underneath the submit button along with a link to the Epicodus website and an option to click to take the quiz again._
 ## Setup/Installation Requirements
 * Clone this repository to your desktop. 
 * Navigate to the top level of the directory. 

@@ -1,6 +1,6 @@
 # Programming Language Selector
 #### By: Sandra Tena
-#### A simple html website that asks the user questions to suggest a programming language to learn. 
+#### A simple html website that asks the user questions to suggest a programming language for them to learn. 
 ## Technologies Used
 * HTML
 * CSS

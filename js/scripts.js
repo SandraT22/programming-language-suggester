@@ -20,23 +20,23 @@ $(document).ready(function() {
     }
   });
   $("#clickable1").click(function() {
-    $("#javascriptResult-show").toggle();
+    // $("#javascriptResult-show").toggle();
     location.reload();
   })
   $("#clickable2").click(function() {
-    $("#cSharpResult-show").toggle();
+    // $("#cSharpResult-show").toggle();
     location.reload();
   })
   $("#clickable3").click(function() {
-    $("#reactResult-show").toggle();
+    // $("#reactResult-show").toggle();
     location.reload();
   })
   $("#clickable4").click(function() {
-    $("#rubyResult-show").toggle();
+    // $("#rubyResult-show").toggle();
     location.reload();
   })
   $("#clickable5").click(function() {
-    $("#epicodusResult-show").toggle();
+    // $("#epicodusResult-show").toggle();
     location.reload();
   })
 });

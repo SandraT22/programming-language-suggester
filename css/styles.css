@@ -12,6 +12,11 @@
 .purpleItalics {
   color: #B284BE;
   font-style: italic;
+  font-weight: bold;
+}
+.clickable {
+  color: blue;
+  text-decoration: underline;
 }
 h1 {
   color: purple;

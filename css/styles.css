@@ -5,6 +5,14 @@
   color: cornflowerblue;
   border: 2px solid cornflowerblue;
 }
+.greenBold {
+  color: green;
+  font-weight: bold;
+}
+.purpleItalics {
+  color: #B284BE;
+  font-style: italic;
+}
 h1 {
   color: purple;
 }

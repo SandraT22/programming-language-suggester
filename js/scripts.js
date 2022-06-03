@@ -21,7 +21,8 @@ $(document).ready(function() {
   });
   $("#clickable1").click(function() {
     // $("#javascriptResult-show").toggle();
-    location.reload();
+    // location.reload();
+    $("#question1").prop("selectIndex", 0);
   })
   $("#clickable2").click(function() {
     // $("#cSharpResult-show").toggle();

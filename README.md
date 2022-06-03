@@ -13,7 +13,7 @@ _This simple html website that asks a series of 5 questions to determine a progr
 * Navigate to the top level of the directory. 
 * Open index.html in your browser. 
 ## Known Bugs
-* No known bugs.
+* Making the inputted name appear in the results. 
 ## GitHub Page Link
 https://sandrat22.github.io/programming-language-suggester/
 ## License
